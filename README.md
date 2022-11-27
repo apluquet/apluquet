@@ -14,6 +14,7 @@ signal  processing, machine  learning, deep learning, data treatment and visuali
 ![Pandas](https://img.shields.io/badge/-PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=white&style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
+![Vega Altair](https://img.shields.io/badge/Vega%20Altair-21b5f4.svg?style=for-the-badge&logo=Altair&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/-KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
