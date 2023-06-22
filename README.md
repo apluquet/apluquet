@@ -21,6 +21,7 @@ signal  processing, machine  learning, deep learning, data treatment and visuali
 ![Tensorflow](https://img.shields.io/badge/-TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![C](https://img.shields.io/badge/-C-green?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-red?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Qgis](https://img.shields.io/badge/-Qgis-589632?logo=Qgis&logoColor=white&style=for-the-badge)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=OCaml&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
