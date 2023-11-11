@@ -1,6 +1,6 @@
 # Hi, I am Adèle ! 👋
 
-- 💻 I am a student in my last year of master's in computer engineering at EPITA.
+- 💻 I am a computer engineer with a degree from EPITA.
 During  my  specialization  in  image  processing,  I  learned  image  related skills  such  as  computer  vision, 
 signal  processing, machine  learning, deep learning, data treatment and visualisation, and  GPU  programming. 
 - 📖 In computer science, I like to work on subjects related to ecology, energy and health.
